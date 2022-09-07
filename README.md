@@ -1,5 +1,5 @@
 # segundo
-segundo
+Segundo repositorio para control de versiones 
 touch Comando usado para poder crear un nuevo archivo en sistemas Linux
 vim Es un editor de texto de terminal y es de codigo abierto
 sed Es un comando usado para la busqueda y remplazo masivo
